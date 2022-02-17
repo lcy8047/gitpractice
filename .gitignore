@@ -1,0 +1,2 @@
+# test1 ignore file/dir that has prefix "not"
+not*
